@@ -1,0 +1,834 @@
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+<head id="Head1"><meta charset="utf-8" /><!-- 10.20.113.223 --><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	Home Tickets
+</title><link href="//fonts.googleapis.com/css?family=Karla:400,700,400italic,700italic" rel="stylesheet" type="text/css" /><link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Prata" /><link rel="stylesheet" type="text/css" href="//cloud.typography.com/6574154/790168/css/fonts.css" /><link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" /><link rel="stylesheet" href="//a248.e.akamai.net/images.talentarena.co.uk/Global/Lib/shadowbox-3.0.3/shadowbox.css" /><link rel="stylesheet" href="//a248.e.akamai.net/images.talentarena.co.uk/Global/Lib/bxslider-4/jquery.bxslider.css" /><link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" />
+    <script src="//a248.e.akamai.net/images.talentarena.co.uk/Global/Lib/foundation-5.4.7/js/vendor/modernizr.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="//code.jquery.com/jquery-migrate-1.2.1.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+    <script src="//a248.e.akamai.net/images.talentarena.co.uk/Global/Lib/foundation-5.4.7/js/vendor/fastclick.js"></script>
+    <script src="//a248.e.akamai.net/images.talentarena.co.uk/Global/Lib/shadowbox-3.0.3/shadowbox.jQuery.js"></script>
+    <script src="//a248.e.akamai.net/images.talentarena.co.uk/Global/Lib/bxslider-4/jquery.bxslider.min.js"></script>
+    <script>
+        // Shadowbox.js
+        Shadowbox.init({ players: ["html"] });
+        function OpenAlertsWindow(URL, boxHeight, boxWidth) {
+            if (matchMedia(Foundation.media_queries.small).matches && !matchMedia(Foundation.media_queries.medium).matches) {
+                //small screen size
+            } else {
+                Shadowbox.open({ player: 'iframe', width: boxWidth, height: boxHeight, content: URL });
+            }
+        }
+        $(function(){
+            // FastClick
+            FastClick.attach(document.body);
+            // bxSlider
+            $('.bxslider').bxSlider({
+                minSlides: 4,
+                maxSlides: 4,
+                slideWidth: 320,
+                slideMargin: 10,
+            });
+        });
+    </script>
+    <link rel="icon" href="/App_Themes/PWS.Brentford/img/favicon.ico" type="image/x-icon" />
+
+    <!-- page level scripting -->
+    
+
+    <!-- page extra data table scripting -->
+    
+    <script src="https://a248.e.akamai.net/images.talentarena.co.uk/Global/Lib/ticketing-products-date-picker.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">Shadowbox.init({players:["html"]});</script><script type="text/javascript">function OpenAlertsWindow(URL, boxHeight, boxWidth) { Shadowbox.open({player: 'iframe', width:boxWidth, height:boxHeight, content: URL, options: { onClose: function () { window.location.reload(); } } });}</script>
+<script>$(function() {$( "<div class='continue-here'><span></span></div>" ).appendTo( "#ticketing-products .ebiz-product-detail" );});</script>
+<link href="../../App_Themes/PWS.Brentford/1-app.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/2-ebiz.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/5-client.BrentfordAccordion.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/5-client.BrentfordAccountPages.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/5-client.BrentfordAdditionalProductInformation.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/5-client.BrentfordAlerts.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/5-client.BrentfordBasket.2016.07.05.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/5-client.BrentfordCheckout.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/5-client.BrentfordFooter.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/5-client.BrentfordGeneral.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/5-client.BrentfordHeader.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/5-client.BrentfordHome.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/5-client.BrentfordLinkedProducts.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/5-client.BrentfordModal.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/5-client.BrentfordProductPages.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/5-client.BrentfordSideBar.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/5-client.BrentfordTemp.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/8-stadiums.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/098D2F2270399F62A.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/0EF9045F71E874159.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/17B1EF9AE24542245.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/195BC00885AC33E0E.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/1E52F4C7AAB89E511.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/1ED7C18E262D9CCFB.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/256B97F0573DC306D.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/2ED58D1408BD0A80D.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/42E211593E48D0D8A.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/593BC16C94A5B6930.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/668F641BECE297A6D.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/6C7F0B41452FDFF5E.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/6D1A9EA22E8399CD1.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/6E13943DD11D88B4F.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/77B94E5E1DAFB74F6.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/77CAAD4933E9C5FD6.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/77D96536F122F135F.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/7E6D7E10167F3C8F4.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/93EFE58C1F62D987A.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/96151854FEF356868.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/9D9F78B80422486F2.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/A1FCF04C3A49CC565.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/ACEF86C65A98CE894.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/BB370506E66BBBA07.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/BE5DBB6BE20B9CBF5.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/C6548F32BC926FDC5.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/CCA4778CE124DC9C0.css" type="text/css" rel="stylesheet" /><link href="../../App_Themes/PWS.Brentford/fonts/418615/D06B67136DBD41289.css" type="text/css" rel="stylesheet" /></head>
+<body id="MasterBodyTag" class="producthome">
+    <!--[if lt IE 9]>
+        <div style=" background: black; padding: 20px; text-align: center; height: 100% "><h1 style=" color: white; ">Internet Explorer is not supported on this website. Please upgrade to Internet Explorer 9  (or newer) or use another browser such as Mozilla Firefox or Google Chrome.</h1></div>
+    <![endif]-->
+    
+    <div class="ebiz-body-overlay"></div>
+    <form method="post" action="productHome.aspx" id="form1" class="form-producthome">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="zBiD/MX2vX0nVfOrckWJgbWeVqrvZs9aZkqpVIabc+fGQDME4nlGrJANvKfU4oJ6rTtGxJlcGSu679AYuKgbuaIIbZLgi2ogBH16w7d4SFuFNqNHXWAOXaoa8EhRXlP8fodsSwyWoEv21Mv4o4FzIIk3OGdMxuZcJnC9CFIscbCsJDN81kWVGH7bSDF/Pi23rsxxRuEI7LwiYXU6kncAin1GYbGtcVL7XVbr0Sm6e/N6v6YXQ2PF8KAzvDnTgwJ7WBSQVyXy+dHfsEhoOsP749/gWlzNxSYM2YIpSiHkBWmNz6NDURhZAYomYlJs3ff6UIFlz2f210I6tkHD2tBTs++Hp6xWwLRIzDVcJY6eZEK6E4NhfOTngZ/Glx8DAlORASUbSVmpV6U+iAtbHAJkS9Y59cT6QBgHXA2dFNzUzUyWTaS+M546AwIBiZ/kaJZD3cxwhGWdiLkQDEx4QOecz9tqAvWKSkeTU38MvSa4PgQN18OKdkHP6u4CVDshOuVE184ecc9+CbTb8CtHkAXAOaPpwirSgBPxKeopU3fx5e5G6R8mbwoUHMZZdVB2SG/b82iYIR4L7rVKZk8/8irIIQw+68HQzWZlrcxVaVcW5SDrnKfYTOgE+o8q37DBnHXfZGm5HqQbprkuxigGnGSxD1rC3mSCPZjoTfk5aTfN0DexzUTfwlavKCnqWrepebyLwOOSmPEun6V+8e6j2p9IFDqG6Zf3lAWVp9mDZoO5l1HWFghQWm5A2p51XzQ0v6A4m/Mz4qvVsfBPL/0cs/4EFIQVR60=" />
+
+
+<script src="/ScriptResource.axd?d=D1YpYmhnPwYRBghP7SCWoWdTC7NMExYUttXymXYNcm7IXJh3hDLTbNgVPaXBCNPYFzadRVXVc2qNv_0jutnn7a4ITz04naXZhXpBZe486xy-rEdWUk0vo0XCOzp-K4NYgzds_0UVZuBdmFSiv0Jbg-CmDik1&amp;t=ca758f3" type="text/javascript"></script>
+        
+            <div class="ebiz-inner-box-shadow">
+                <header>
+                            <div class="ebiz-mp-header-wrap-upper">
+                                <div class="row">
+                                    <div class="large-12 columns no-pad-left no-pad-right">      
+                                            <div class="ebiz-mp-personalisation-wrap">
+                                                <span class="show-for-small-only ebiz-mobile-club-name">Brentford Football Club</span>
+                                                <div id="SiteMasterBody_uscMicroBasket_updMicroBasket" class="ebiz-basket">
+	
+    <a id="SiteMasterBody_uscMicroBasket_hplBasket" href="../Basket/Basket.aspx"><i class="fa fa-shopping-cart"></i> <span class="ebiz-basket-summary">Basket</span> <span class="ebiz-basket-items">(0)</span> <span class="ebiz-basket-total">&pound;0.00</span></a>
+
+</div>
+                                                
+        <div class="ebiz-sign-in"><a href="../../PagesPublic/Login/Login.aspx">Login</a></div>
+        <div class="ebiz-new-customer"><a href="../../PagesPublic/Profile/Registration.aspx">Register</a></div>
+    
+                                                
+<div class="loyalty-wrap">
+    <div class="loyalty-header">
+        <a id="SiteMasterBody_TicketingLoyalty1_LoyaltyHeader" href="../../PagesLogin/Orders/OrderEnquiry.aspx"></a>
+    </div>
+    <div class="loyalty-content">
+        
+        <span id="SiteMasterBody_TicketingLoyalty1_LoyaltyLabel"><i class="fa fa-ticket"></i> Ticket Access Points</span>
+    </div>
+</div>
+
+                                                
+                                            </div>
+                                    </div>
+                                </div>
+                                <div class="row show-for-medium-up">
+                                    <div class="large-12 columns no-pad-left no-pad-right">      
+                                            <div class="ebiz-mp-header-contact-wrap">
+                                                <p>Ticket Office: 0845 3456 442 (Option 1). <span>Calls will cost 7 pence per minute plus your telephone company's access charge</span></p>
+
+                                            </div>
+                                    </div>
+                                </div>
+                                <div class="row show-for-medium-up">
+                                    <div class="large-12 columns no-pad-left no-pad-right">      
+                                            <div class="ebiz-mp-club-wrap">
+                                                <h2>Brentford Football Club</h2>
+                                            </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="ebiz-mp-header-wrap-lower">
+                                <div class="row">
+                                    <div class="large-12 columns no-pad-left no-pad-right">
+                                        <div class="ebiz-mp-topbar">
+                                            <a class="ebiz-mobile-logo show-for-small-only" href="/PagesPublic/home/home.aspx"><img src="/App_Themes/PWS.Brentford/img/BrentfordLogo.svg" alt=""></a>
+
+<div class="contain-to-grid">
+    <nav class="top-bar" data-topbar>
+        <ul class="title-area">
+            <li class="name">
+               <a class="ebiz-mp-header-wrap-lower-logo show-for-medium-up" href="/PagesPublic/home/home.aspx"><img alt="Brentford FC" src="/App_Themes/PWS.Brentford/img/BrentfordLogo.svg"></a>
+            </li>
+            <li class="toggle-topbar"><a href="#"><img src="/App_Themes/PWS.Brentford/img/menu.png" width="24"></a></li>
+        </ul>
+        <section class="top-bar-section">
+            <ul class="main-nav">
+                <li><a href="/PagesPublic/home/home.aspx">Home</a></li>
+                <li class="separator">/</li>
+                <li class="has-dropdown">
+                    <a href="#">Tickets & Memberships</a> 
+                    <ul class="dropdown">
+                        <li><a href="/PagesPublic/ProductBrowse/productHome.aspx">Home Tickets</a></li>
+                        <li><a href="/PagesPublic/ProductBrowse/productAway.aspx">Away Tickets</a></li>
+                        <li><a href="/PagesPublic/ProductBrowse/productSeason.aspx">Season Ticket</a></li>
+                        <!--<li><a href="/Redirect/TicketingGateway.aspx?page=home.aspx&amp;function=AddSeasonTicketRenewalsToBasket">Season Ticket Renewal</a></li>-->
+                        <li><a href="/PagesPublic/ProductBrowse/productTravel.aspx">Travel Tickets</a></li>
+                        <li><a href="/PagesPublic/ProductBrowse/productMembership.aspx">Memberships</a></li>
+                        <li><a href="/PagesPublic/ProductBrowse/productEvent.aspx?ProductSubType=DONA">Donations</a></li>
+                    </ul>
+                </li>
+                <li class="separator">/</li>
+                <li class="has-dropdown">
+                    <a href="#">Hospitality & Events</a> 
+                    <ul class="dropdown">
+                        <li><a href="/PagesPublic/ProductBrowse/ProductEvent.aspx?ProductSubType=HOSP">Hospitality</a></li>
+                        <li><a href="/PagesPublic/ProductBrowse/productEvent.aspx">Events</a></li>
+                        
+                    </ul>
+                </li>
+                <li class="separator">/</li>
+                <li class="has-dropdown">
+                    <a href="#">Experiences</a> 
+                    <ul class="dropdown">
+                        <li><a href="/PagesPublic/ProductBrowse/ProductEvent.aspx?ProductSubType=MAS">Mascot Package</a></li>
+                        <li><a href="/PagesPublic/ProductBrowse/ProductEvent.aspx?ProductSubType=GOH">Guard of Honour Package</a></li>
+                    </ul>
+                </li>
+                <li class="separator show-for-large-up">/</li>
+                <li class="show-for-large-up"><a href="http://shop.brentfordfc.co.uk/" target="_blank">Shop</a></li>
+                <li class="separator show-for-large-up">/</li>
+                <!--Medium up -->
+                <li class="has-dropdown show-for-medium-only">
+                    <a href="#">Other</a> 
+                    <ul class="dropdown"> 
+                        <li><a href="/PagesPublic/ProductBrowse/ProductEvent.aspx?ProductSubType=HOSP">Hospitality</a></li>
+                        <li><a href="/PagesPublic/ProductBrowse/productMembership.aspx">Memberships</a></li>
+                        <li><a href="/PagesPublic/ProductBrowse/productEvent.aspx?ProductSubType=DONA">Donations</a></li>
+                    </ul>
+                </li>
+                <li class="separator show-for-medium-only">/</li>
+                <!--Medium up end -->
+                <li class="has-dropdown">
+                    <a href="/PagesLogin/Profile/MyAccount.aspx">My Account</a> 
+                    <ul class="dropdown">
+                        <li><a href="/PagesLogin/Profile/updateProfile.aspx">Update My Details</a></li>
+                        <li><a href="/PagesLogin/Orders/PurchaseHistory.aspx">Order History &amp; Ticket Summary</a></li>
+                        <li><a href="/PagesLogin/FriendsAndFamily/FriendsAndFamily.aspx">Friends and Family</a></li>
+                        <li><a href="/Pageslogin/profile/FavouriteSeat.aspx">Favourite Seat</a></li>
+                        <li><a href="/Pageslogin/Profile/SaveMyCard.aspx">My Saved Payment Cards</a></li>
+                        <li><a href="/PagesLogin/Orders/OrderReturnEnquiry.aspx">Ticket Exchange</a></li>
+                        <!--<li><a href="/PagesLogin/Vouchers/Vouchers.aspx">Vouchers</a></li>-->
+                    </ul>
+                </li>
+                <li class="separator">/</li>
+                <li class="has-dropdown">
+                    <a href="#">Contact Us</a> 
+                    <ul class="dropdown">
+                        <li><a href="/PagesPublic/Contact/ContactUs.aspx">Contact Us</a></li>
+                        <li><a href="http://www.brentfordfc.co.uk/tickets/termsandconditions" target="_blank">Terms and Conditions</a></li>
+                        <li><a href="http://www.brentfordfc.co.uk/club/ground-regulations" target="_blank">Ground Regulations</a></li>
+                        <li><a href="/PagesPublic/UserControlled/PrivacyPolicy.aspx">Privacy Policy</a></li>
+                        <li><a href="http://www.brentfordfc.co.uk/club/faqs/" target="_blank">Help</a></li>
+                    </ul>
+                </li>            
+            </ul>
+        </section>
+    </nav>
+</div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>  
+                              
+                            
+
+                        </header>
+                <section>
+                    <div class="ebiz-mp-content-wrap">
+                        <div class="row ebiz-mp-session">
+                            <div class="large-12 columns">
+                                <!--<div class="alert-box warning ebiz-session-status">
+    <h2 class="subheader">
+        <small>Session Timer</small>
+    </h2>
+    <p>Your session will only last a maximum of 30 minutes and will be timed out after 5 minutes of inactivity.
+    	 <b>You currently have 30 minutes remaining</b>.</p>
+</div>-->
+
+                                
+    <div class="alert-box warning ebiz-session-status">
+        <h2 class="subheader">
+        	<small>
+            	<span id="SiteMasterBody_uscSessionStatus_statusHeader">Your Session Status</span>
+        	</small>
+    	</h2>
+        <p>
+        	<span id="SiteMasterBody_uscSessionStatus_statusContent">Your session will only last a maximum of 30 minutes and will be timed out after 5 minutes of inactivity.<b>You currently have 30 minutes remaining</b>.</span>
+    	</p>
+    </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="ebiz-mp-content-wrap">
+                        <div class="row ebiz-mp-content">
+                            <div class="show-for-large-up large-3 columns">
+                                <!--<ul class="custom-sidebar-nav">
+	<li><a href="/PagesPublic/Login/Login.aspx">Login/Register</a></li>
+    <li><a href="/PagesLogin/Profile/myAccount.aspx">My Account</a></li>
+    <li><a href="/PagesLogin/Profile/updateProfile.aspx">Update My Details</a></li>
+</ul>-->
+
+<div id='custom-sidebar-nav'>
+<ul>
+    <li><a href="/PagesPublic/Home/home.aspx">Home</a></li>
+    <li class='has-sub'><a href='#'>Tickets & Memberships</a>
+      <ul>
+		<li type="circle"><a href="/PagesPublic/ProductBrowse/productHome.aspx">Home Tickets</a></li>
+		<li type="circle"><a href="/PagesPublic/ProductBrowse/productAway.aspx">Away Tickets</a></li>
+                <!--<li type="circle"><a href="/PagesPublic/ProductBrowse/productSeason.aspx">New Season Tickets</a></li>-->
+		<li type="circle"><a href="/PagesPublic/ProductBrowse/ProductTravel.aspx">Travel Tickets</a></li>
+                <li type="circle"><a href="/PagesPublic/ProductBrowse/productMembership.aspx">Memberships</a></li>    
+                <li type="circle"><a href="/PagesPublic/ProductBrowse/productEvent.aspx?ProductSubType=DONA">Donations</a></li>
+                <!--<li type="circle"><a href="/Redirect/TicketingGateway.aspx?page=home.aspx&function=AddReservedItemsToBasket">Cup Tickets</a></li>-->
+      </ul>
+    </li>
+    <li class='has-sub'><a href='#'>Hospitality & Events</a>
+      <ul>
+               <li><a href="/PagesPublic/ProductBrowse/ProductEvent.aspx?ProductSubType=HOSP">Hospitality</a></li>
+               <li><a href="/PagesPublic/ProductBrowse/productEvent.aspx">Events</a></li>
+      </ul>
+      </li>
+     <li class='has-sub'><a href='#'>Experiences</a>
+      <ul>   
+                <li><a href="/PagesPublic/ProductBrowse/ProductEvent.aspx?ProductSubType=MAS">Mascot Package</a></li>
+                <li><a href="/PagesPublic/ProductBrowse/ProductEvent.aspx?ProductSubType=GOH">Guard of Honour Package</a></li>   
+      </ul>
+    </li>
+    <li><a href="http://shop.brentfordfc.co.uk/" target="_blank">Shop</a></li>
+    <li class='has-sub'><a href='#'>My Account</a>
+      <ul>
+        <li type="circle"><a href="/PagesLogin/Profile/updateProfile.aspx">Update My Details</a></li>
+        <li type="circle"><a href="/PagesLogin/Orders/orderEnquiry.aspx">Order History &amp; Summary</a></li>
+        <li type="circle"><a href="/PagesLogin/FriendsAndFamily/FriendsAndFamily.aspx">Friends and Family</a></li>
+        <li type="circle"><a href="/Pageslogin/profile/FavouriteSeat.aspx">Favourite Seat</a></li>
+        <li type="circle"><a href="/Pageslogin/Profile/SaveMyCard.aspx">My Saved Payment Cards</a></li>
+        <li type="circle"><a href="/PagesLogin/Orders/OrderReturnEnquiry.aspx?">Ticket Exchange</a></li>
+      </ul>
+    </li>
+    <li class='has-sub'><a href='#'>Contact Us</a>
+      <ul>
+        <li type="circle"><a href="/PagesPublic/Contact/ContactUs.aspx">Contact Us</a></li>
+        <li type="circle"><a href="http://www.brentfordfc.co.uk/tickets/termsandconditions" target="_blank">Terms and Conditions</a></li>
+        <li type="circle"><a href="http://www.brentfordfc.co.uk/club/ground-regulations" target="_blank">Ground Regulations</a></li>
+        <li type="circle"><a href="/PagesPublic/UserControlled/PrivacyPolicy.aspx">Privacy Policy</a></li>
+        <li type="circle"><a href="http://www.brentfordfc.co.uk/club/faqs/" target="_blank">Help</a></li>
+      </ul>
+    </li>
+  
+	
+	
+</ul>
+<script>$(document).ready(function () {
+        $(document).ready(function () {
+
+
+            $('#custom-sidebar-nav ul ul li:odd').addClass('odd');
+            $('#custom-sidebar-nav ul ul li:even').addClass('even');
+            $('#custom-sidebar-nav > ul > li > a').click(function () {
+                $('#custom-sidebar-nav li').removeClass('active');
+                $(this).closest('li').addClass('active');
+                var checkElement = $(this).next();
+                if ((checkElement.is('ul')) && (checkElement.is(':visible'))) {
+                    $(this).closest('li').removeClass('active');
+                    checkElement.slideUp('normal');
+                }
+                if ((checkElement.is('ul')) && (!checkElement.is(':visible'))) {
+                    $('#custom-sidebar-nav ul ul:visible').slideUp('normal');
+                    checkElement.slideDown('normal');
+                }
+                if ($(this).closest('li').find('ul').children().length == 0) {
+                    return true;
+                } else {
+                    return false;
+                }
+            });
+
+        });
+
+    });</script>
+</div>
+
+
+
+    
+
+
+
+                            </div>
+                            <div class="large-9 columns">
+                                
+    <h1>Home Tickets</h1>
+
+
+
+
+
+    
+
+
+<!-- Hosp Button -->
+<script>
+    $(function() {
+        $( "<div class='home-hosp'>Click <a href='/PagesPublic/ProductBrowse/ProductEvent.aspx?ProductSubType=HOSP' class='ebiz-ud-extra-home-product-link'><span>here</span></a> for Match Day Hospitality</div>" ).appendTo( ".panel.ebiz-header" );
+	});
+</script>
+<!-- Hosp Button End -->
+
+
+<div class="product-page-info">
+<img class="product-page-img" src="/assets/websales/html/assets/hometicketspagebanner.jpg"/></a>
+<p>Take your pick from the matches available below and secure your seat to cheer The Bees on at Griffin Park this season. Seats are available in the New Road Stand, Ealing Road Terrace, and Braemer Road Stand while the Brook Road Stand is allocated to away supporters only.</p>
+
+<p>Upgrade to an <a href="/PagesPublic/ProductBrowse/productMembership.aspx">Adult Membership</a> today and gain priority access to home Championship matches plus you can save £5 off the price of your ticket – join online <a href="/PagesPublic/ProductBrowse/productMembership.aspx">now</a></p>
+
+<p>Please note - all tickets are subject to the Terms and Conditions of issue. The purchase of a ticket constitutes acceptance of these <a href="http://www.brentfordfc.co.uk/tickets/termsandconditions/" target="_blank">Terms &amp; Conditions</a>, and acceptance of the <a href="http://www.brentfordfc.co.uk/club/ground-regulations/" target="_blank">Ground Regulations</a>.
+</div>
+
+
+
+
+
+
+
+ 
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+    <div id="ticketing-products" class="ebiz-accordion ebiz-ticketing-products">
+        
+                
+                    <a name="anchorvarBAFC16" href="#BAFC16"></a>
+                    
+                        <a href="/PagesPublic/ProductBrowse/VisualSeatSelection.aspx?stadium=GR&product=BAFC16&campaign=&type=H&productsubtype=&productIsHomeAsAway=N">
+                    
+                    <div class="panel ebiz-header BAFC16 ebiz-product-type-H">
+                        
+                        
+                        <input type="hidden" name="ctl00$ctl00$SiteMasterBody$ContentPlaceHolder1$ProductDetail1$ProductRepeater$ctl00$hfProductCode" id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_hfProductCode_0" value="BAFC16" /><input type="hidden" name="ctl00$ctl00$SiteMasterBody$ContentPlaceHolder1$ProductDetail1$ProductRepeater$ctl00$hfProductStadium" id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_hfProductStadium_0" value="GR" /><input type="hidden" name="ctl00$ctl00$SiteMasterBody$ContentPlaceHolder1$ProductDetail1$ProductRepeater$ctl00$hfProductType" id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_hfProductType_0" value="H" /><input type="hidden" name="ctl00$ctl00$SiteMasterBody$ContentPlaceHolder1$ProductDetail1$ProductRepeater$ctl00$hfCampaignCode" id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_hfCampaignCode_0" /><input type="hidden" name="ctl00$ctl00$SiteMasterBody$ContentPlaceHolder1$ProductDetail1$ProductRepeater$ctl00$hfProductHomeAsAway" id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_hfProductHomeAsAway_0" value="N" /><input type="hidden" name="ctl00$ctl00$SiteMasterBody$ContentPlaceHolder1$ProductDetail1$ProductRepeater$ctl00$hdfProductAvailability" id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_hdfProductAvailability_0" value="Y" /><input type="hidden" name="ctl00$ctl00$SiteMasterBody$ContentPlaceHolder1$ProductDetail1$ProductRepeater$ctl00$hdfPriceCode" id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_hdfPriceCode_0" />
+                        
+                        
+                        <div class="ebiz-product-detail">
+                            <div class="ebiz-logos-wrap">
+                                <img id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_OppositionImage_0" class="ebiz-opposition" src="https://a248.e.akamai.net/images.talentarena.co.uk/assets/images/global/Product/Ticketing/Opposition/BNS.png" /><img id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_CompetitionImage_0" class="ebiz-competition" src="https://a248.e.akamai.net/images.talentarena.co.uk/assets/images/global/Product/Ticketing/Competition/B.png" />
+                            </div>
+                            <ul class="no-bullet">
+                                
+                                    <li class="ebiz-description"><h2 class="subheader"><small>Brentford v Barnsley</small></h2></li>
+                                
+                                    <li class="ebiz-date">
+                                        <span class="ebiz-label">Date:</span>
+                                        <span class="ebiz-data">Saturday,&nbsp;22 October,&nbsp;2016</span>
+                                    </li>
+                                
+                                    <li class="ebiz-time">
+                                        <span class="ebiz-label">Kick-off: </span>
+                                        <span class="ebiz-data">3pm</span>
+                                    </li>
+                                
+                                    <li class="ebiz-stadium">
+                                        <span class="ebiz-label"></span>
+                                        <span class="ebiz-data">Griffin Park (NEW)</span>
+                                    </li>
+                                
+                            </ul>
+                        </div>
+                        
+
+                        
+                        </a>
+                    
+                    </div>
+
+                    
+
+                
+            
+                
+                    <a name="anchorvarFUFC16" href="#FUFC16"></a>
+                    
+                        <a href="/PagesPublic/ProductBrowse/VisualSeatSelection.aspx?stadium=GR&product=FUFC16&campaign=&type=H&productsubtype=&productIsHomeAsAway=N">
+                    
+                    <div class="panel ebiz-header FUFC16 ebiz-product-type-H">
+                        
+                        
+                        <input type="hidden" name="ctl00$ctl00$SiteMasterBody$ContentPlaceHolder1$ProductDetail1$ProductRepeater$ctl01$hfProductCode" id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_hfProductCode_1" value="FUFC16" /><input type="hidden" name="ctl00$ctl00$SiteMasterBody$ContentPlaceHolder1$ProductDetail1$ProductRepeater$ctl01$hfProductStadium" id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_hfProductStadium_1" value="GR" /><input type="hidden" name="ctl00$ctl00$SiteMasterBody$ContentPlaceHolder1$ProductDetail1$ProductRepeater$ctl01$hfProductType" id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_hfProductType_1" value="H" /><input type="hidden" name="ctl00$ctl00$SiteMasterBody$ContentPlaceHolder1$ProductDetail1$ProductRepeater$ctl01$hfCampaignCode" id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_hfCampaignCode_1" /><input type="hidden" name="ctl00$ctl00$SiteMasterBody$ContentPlaceHolder1$ProductDetail1$ProductRepeater$ctl01$hfProductHomeAsAway" id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_hfProductHomeAsAway_1" value="N" /><input type="hidden" name="ctl00$ctl00$SiteMasterBody$ContentPlaceHolder1$ProductDetail1$ProductRepeater$ctl01$hdfProductAvailability" id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_hdfProductAvailability_1" value="Y" /><input type="hidden" name="ctl00$ctl00$SiteMasterBody$ContentPlaceHolder1$ProductDetail1$ProductRepeater$ctl01$hdfPriceCode" id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_hdfPriceCode_1" />
+                        
+                        
+                        <div class="ebiz-product-detail">
+                            <div class="ebiz-logos-wrap">
+                                <img id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_OppositionImage_1" class="ebiz-opposition" src="https://a248.e.akamai.net/images.talentarena.co.uk/assets/images/global/Product/Ticketing/Opposition/FUL.png" /><img id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_CompetitionImage_1" class="ebiz-competition" src="https://a248.e.akamai.net/images.talentarena.co.uk/assets/images/global/Product/Ticketing/Competition/B.png" />
+                            </div>
+                            <ul class="no-bullet">
+                                
+                                    <li class="ebiz-description"><h2 class="subheader"><small>Brentford v Fulham</small></h2></li>
+                                
+                                    <li class="ebiz-date">
+                                        <span class="ebiz-label">Date:</span>
+                                        <span class="ebiz-data">Friday,&nbsp;04 November,&nbsp;2016</span>
+                                    </li>
+                                
+                                    <li class="ebiz-time">
+                                        <span class="ebiz-label">Kick-off: </span>
+                                        <span class="ebiz-data">7:45pm</span>
+                                    </li>
+                                
+                                    <li class="ebiz-stadium">
+                                        <span class="ebiz-label"></span>
+                                        <span class="ebiz-data">Griffin Park (NEW)</span>
+                                    </li>
+                                
+                            </ul>
+                        </div>
+                        
+
+                        
+                            <div class="alert-box warning ebiz-eligibility">You need to have purchased Season Card or Booking History before buying this.</div>
+                        
+                        </a>
+                    
+                    </div>
+
+                    
+
+                
+            
+                
+                    <a name="anchorvarBIFC16" href="#BIFC16"></a>
+                    
+                        <a href="/PagesPublic/ProductBrowse/VisualSeatSelection.aspx?stadium=GR&product=BIFC16&campaign=&type=H&productsubtype=&productIsHomeAsAway=N">
+                    
+                    <div class="panel ebiz-header BIFC16 ebiz-product-type-H">
+                        
+                        
+                        <input type="hidden" name="ctl00$ctl00$SiteMasterBody$ContentPlaceHolder1$ProductDetail1$ProductRepeater$ctl02$hfProductCode" id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_hfProductCode_2" value="BIFC16" /><input type="hidden" name="ctl00$ctl00$SiteMasterBody$ContentPlaceHolder1$ProductDetail1$ProductRepeater$ctl02$hfProductStadium" id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_hfProductStadium_2" value="GR" /><input type="hidden" name="ctl00$ctl00$SiteMasterBody$ContentPlaceHolder1$ProductDetail1$ProductRepeater$ctl02$hfProductType" id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_hfProductType_2" value="H" /><input type="hidden" name="ctl00$ctl00$SiteMasterBody$ContentPlaceHolder1$ProductDetail1$ProductRepeater$ctl02$hfCampaignCode" id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_hfCampaignCode_2" /><input type="hidden" name="ctl00$ctl00$SiteMasterBody$ContentPlaceHolder1$ProductDetail1$ProductRepeater$ctl02$hfProductHomeAsAway" id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_hfProductHomeAsAway_2" value="N" /><input type="hidden" name="ctl00$ctl00$SiteMasterBody$ContentPlaceHolder1$ProductDetail1$ProductRepeater$ctl02$hdfProductAvailability" id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_hdfProductAvailability_2" value="Y" /><input type="hidden" name="ctl00$ctl00$SiteMasterBody$ContentPlaceHolder1$ProductDetail1$ProductRepeater$ctl02$hdfPriceCode" id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_hdfPriceCode_2" />
+                        
+                        
+                        <div class="ebiz-product-detail">
+                            <div class="ebiz-logos-wrap">
+                                <img id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_OppositionImage_2" class="ebiz-opposition" src="https://a248.e.akamai.net/images.talentarena.co.uk/assets/images/global/Product/Ticketing/Opposition/BIR.png" /><img id="SiteMasterBody_ContentPlaceHolder1_ProductDetail1_ProductRepeater_CompetitionImage_2" class="ebiz-competition" src="https://a248.e.akamai.net/images.talentarena.co.uk/assets/images/global/Product/Ticketing/Competition/B.png" />
+                            </div>
+                            <ul class="no-bullet">
+                                
+                                    <li class="ebiz-description"><h2 class="subheader"><small>Brentford v Birmingham City</small></h2></li>
+                                
+                                    <li class="ebiz-date">
+                                        <span class="ebiz-label">Date:</span>
+                                        <span class="ebiz-data">Saturday,&nbsp;26 November,&nbsp;2016</span>
+                                    </li>
+                                
+                                    <li class="ebiz-time">
+                                        <span class="ebiz-label">Kick-off: </span>
+                                        <span class="ebiz-data">3pm</span>
+                                    </li>
+                                
+                                    <li class="ebiz-stadium">
+                                        <span class="ebiz-label"></span>
+                                        <span class="ebiz-data">Griffin Park (NEW)</span>
+                                    </li>
+                                
+                            </ul>
+                        </div>
+                        
+
+                        
+                        </a>
+                    
+                    </div>
+
+                    
+
+                
+            
+    </div>
+
+
+
+
+<script type="text/javascript">
+    function switchMenu(obj) {
+        var el = document.getElementById(obj);
+        if (el.style.display != "none") {
+            el.style.display = 'none';
+        }
+        else {
+            el.style.display = '';
+        }
+    }
+</script>
+
+    
+
+
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <footer>
+                    
+
+                    <!--DESKTOP FOOTER-->
+
+<div class="footer-club-logo show-for-medium-up">
+  <img src="/App_Themes/PWS.Brentford/img/footer-logo.png" class="brentfordfc-footer-logo" alt="Brentford FC">
+</div>
+<div class="footer-club-tagline show-for-medium-up">
+  <span class="website-title">The official ticketing site of Brentford FC</span>
+</div>
+<div class="show-for-medium-up ebiz-desktop-footer-wrap">
+
+  <div class="ebiz-desktop-footer-social">
+    <div class="row">
+        <div class="medium-6 large-6 columns ebiz-desktop-footer-social-club">
+          
+          <img width="160px" height="21px" src="/App_Themes/PWS.Brentford/img/skybet-championship.png" class="leaguelogo" alt="">
+        </div>
+        <div class="medium-6 large-6 columns ebiz-desktop-footer-social-links">
+          <ul class="footer-icons">
+            <li> <a title="Follow us on Twitter" target="_blank" href="http://www.twitter.com/BrentfordFC" class="twitter"><span></span>Follow us on Twitter</a></li>
+            <li> <a title="Find us on Facebook" target="_blank" href="http://www.facebook.com/brentfordfootballclub1889" class="facebook"><span></span>Find us on Facebook</a></li>
+            <li> <a title="RSS updates" target="_blank" href="http://www.brentfordfc.co.uk/common/rss/news-rss-feed.xml" class="rss"><span></span>RSS updates</a></li>
+            </ul>
+        </div>
+    </div>
+
+  </div>
+
+  <hr style="border-style: dotted;border-color: #7f7f7f;max-width:982px">
+
+  <div class="ebiz-desktop-footer-sponsors">
+    <div class="row">
+      <div class="medium-4 large-2 columns ebiz-desktop-footer-sponsors-img-1">
+          <a target="_blank" href="https://www.888sport.com/"><img src="/assets/websales/html/assets/footersponsors/888sport.png" alt="footer sponsor"></a>
+          <span>Official Club Partner</span>
+        </div>
+        <div class="medium-4 large-2 columns ebiz-desktop-footer-sponsors-img-2">
+          <a target="_blank" href="http://www.adidas.co.uk/"><img src="/assets/websales/html/assets/footersponsors/adidas.png" alt="footer sponsor"></a>
+          <span>Official Kit Supplier</span>
+        </div>
+        <div class="medium-4 large-2 columns ebiz-desktop-footer-sponsors-img-3">
+          <a target="_blank" href="http://www.uwl.ac.uk/"><img src="/assets/websales/html/assets/footersponsors/uwl.png" alt="footer sponsor"></a>
+          <span>Official Club Partner</span>
+        </div>
+        <div class="medium-4 large-2 columns ebiz-desktop-footer-sponsors-img-4">
+          <a target="_blank" href="http://www.regallitho.co.uk/regal-sports-press/"><img src="/assets/websales/html/assets/footersponsors/regalsportspress.png" alt="footer sponsor"></a>
+          <span>Official Club Partner</span>
+        </div>
+        <div class="medium-4 large-2 columns ebiz-desktop-footer-sponsors-img-5">
+          <a target= "_blank" href="http://www.carlsberg.co.uk/"><img src="/assets/websales/html/assets/footersponsors/carlsberg.jpg" alt="footer sponsor"></a>
+          <span>Official Club Partner</span>
+        </div>
+        <div class="medium-4 large-2 columns ebiz-desktop-footer-sponsors-img-6">
+          <!--<img src="http://placehold.it/140x70" alt="footer sponsor">
+          <span>Official Club Partner</span>-->
+        </div>
+    </div>
+  </div>
+
+
+  <hr>
+
+  <div class="ebiz-desktop-footer-links">
+    <div class="row">
+        <div class="medium-6 large-2 columns footer-contact">
+          <div>
+            <h2>Contact Information</h2>
+            <address>
+             <p>
+              <span class="given-name org">Brentford Football Club</span></br>
+              <span class="street-address">Griffin Park</span></br>
+              <span class="locality">Braemar Road</span></br>
+              <span class="locality">Brentford</span></br>
+              <span class="locality">Middlesex</span></br>
+              <span class="postal-code"><a target="_blank" href="http://goo.gl/maps/rDmHP">TW8 0NT</a></span>
+            </p>
+            <ul>
+              <li><abbr title="telephone"></abbr> <span class="tel">0845 3456 442 (option 1)</span></li>
+              <li><abbr title="email"></abbr> <a href="mailto:tickets@brentfordfc.co.uk">tickets@brentfordfc.co.uk</a></li>
+              <li><abbr title="official website"></abbr> <a href="http://www.brentfordfc.co.uk">www.brentfordfc.co.uk</a></li>
+            </ul>
+            </address>
+          </div>
+        </div>
+        <div class="medium-6 large-2 columns footer-products">
+          <div>
+            <h2>Tickets</h2>
+                <ul>
+                  <li class="first">
+                      <a href="/PagesPublic/ProductBrowse/productHome.aspx">Home Tickets</a>
+                  </li>
+                  <li>
+                      <a href="/PagesPublic/ProductBrowse/productAway.aspx">Away Tickets</a>
+                  </li>
+                  <li>
+                      <a href="/PagesPublic/ProductBrowse/productSeason.aspx">Season Tickets</a>
+                  </li>
+                  <li>
+                      <a href="/PagesPublic/ProductBrowse/ProductTravel.aspx">Travel Tickets</a>
+                  </li>
+                  <li>
+                      <a href="/PagesPublic/ProductBrowse/productEvent.aspx">Event Tickets</a>
+                  </li>
+                  <li>
+                      <a href="/PagesPublic/ProductBrowse/ProductEvent.aspx?ProductSubType=HOSP">Hospitality</a>
+                  </li>
+              </ul>
+          </div>
+        </div>
+        <div class="medium-6 large-2 columns footer-products">
+          <div>
+            <h2>Other</h2>
+                <ul>
+                  <li class="first">
+                      <a href="/PagesPublic/ProductBrowse/ProductMembership.aspx">Memberships</a>
+                  </li>
+                  <li>
+                      <a href="/PagesPublic/ProductBrowse/ProductEvent.aspx?ProductSubType=GIFT">Gift Vouchers</a>
+                  </li>
+              </ul>
+          </div>
+        </div>
+        <div class="medium-6 large-2 columns footer-account">
+          <div>
+            <h2>My Account</h2>
+                <ul>
+                  <li>
+                      <a href="/PagesLogin/Profile/updateProfile.aspx">Update My Details</a>
+                  </li>
+                  <li>
+                      <a href="/PagesLogin/Orders/orderEnquiry.aspx">Order History &amp; Summary</a>
+                  </li>
+                  <li>
+                      <a href="/PagesLogin/FriendsAndFamily/FriendsAndFamily.aspx">Friends and Family</a>
+                  </li>
+                  <li>
+                      <a href="/Pageslogin/profile/FavouriteSeat.aspx">Favourite Seat</a>
+                  </li>
+                  <li>
+                      <a href="/Pageslogin/Profile/SaveMyCard.aspx">My Saved Payment Cards</a>
+                  </li>
+                  <li>
+                      <a href="/PagesLogin/Orders/OrderReturnEnquiry.aspx">Ticket Exchange</a>
+                  </li>
+                </ul>
+          </div>
+        </div>
+        <div class="medium-6 large-2 columns footer-useful-links">
+          <div>
+            <h2>Useful Links</h2>
+                <ul>
+                  <li><a href="/PagesPublic/Contact/ContactUs.aspx">Contact Us</a></li>
+                  <li><a href="http://www.brentfordfc.co.uk/tickets/termsandconditions" target="_blank">Terms and Conditions</a></li>
+                  <li><a href="http://www.brentfordfc.co.uk/club/ground-regulations" target="_blank">Ground Regulations</a></li>
+                  <li><a href="/PagesPublic/UserControlled/PrivacyPolicy.aspx">Privacy Policy</a></li>
+                  <li><a href="http://www.brentfordfc.co.uk/club/faqs/" target="_blank">Help</a></li>
+                </ul>
+          </div>
+        </div>
+        <div class="medium-12 large-2 columns footer-card-types">
+          <div>
+            <h2>Accepted Payment Types</h2>
+                <ul>
+                  <li>
+                    <img src="https://a248.e.akamai.net/images.talentarena.co.uk/Global/assets/maestro-curved-32px.png" alt="Maestro Card">
+                  </li>
+                  <li>
+                    <img src="https://a248.e.akamai.net/images.talentarena.co.uk/Global/assets/mastercard-curved-32px.png" alt="Mastercard">
+                  </li>
+                  <li>
+                    <img src="https://a248.e.akamai.net/images.talentarena.co.uk/Global/assets/visa-curved-32px.png" alt="Visa Credit Card">
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+
+
+<script>
+    $(document).ready(function() {
+        var w = document.body.clientWidth;
+            if (w > 641) {
+                $(window).load(function() {
+                    // set panel height
+                    boxes = $('.ebiz-desktop-footer-links .columns');
+                    maxHeight = Math.max.apply(
+                    Math, boxes.map(function() {
+                      return $(this).height();
+                    }).get());
+                boxes.height(maxHeight);
+            });
+        };
+    });
+</script>
+
+
+<!--MOBILE FOOTER-->
+
+
+<div class="show-for-small-only ebiz-mobile-footer-wrap">
+
+  <div class="ebiz-mobile-footer-upper">
+
+    <div class="row">
+        
+        <div class="small-6 columns no-pad-left no-pad-right ebiz-mobile-footer-upper-link-left">
+            <a href="/PagesLogin/Profile/myAccount.aspx">My Account</a>
+        </div>
+      
+        
+        <div class="small-6 columns no-pad-left no-pad-right ebiz-mobile-footer-upper-link-right">
+            <a href="/PagesPublic/home/home.aspx">Home</a>
+        </div>
+      
+
+    </div>
+
+  </div>
+
+  <div class="ebiz-mobile-footer-lower">
+    <ul>
+      <li><a href="/PagesPublic/Contact/ContactUs.aspx">Contact Us</a></li>
+      <li><a href="http://www.brentfordfc.co.uk/tickets/termsandconditions" target="_blank">Terms and Conditions</a></li>
+      <li><a href="http://www.brentfordfc.co.uk/club/ground-regulations" target="_blank">Ground Regulations</a></li>
+      <li><a href="/PagesPublic/UserControlled/PrivacyPolicy.aspx">Privacy Policy</a></li>
+      <li><a href="http://www.brentfordfc.co.uk/club/faqs/" target="_blank">Help</a></li>
+      <li><a href="http://www.advancedticketing.co.uk/">&copy; Powered by Advanced Ticketing</a></li>
+    </ul>
+  </div>
+
+</div>
+
+<script>
+$(function() {
+$(".BTLV16.ebiz-product-type-H .continue-here, .BTLV16.ebiz-product-type-H .ebiz-sold-out, .BTLV16.ebiz-product-type-H .home-hosp").remove();
+$(".BTLV16.ebiz-product-type-H").removeClass("ui-state-soldOut");
+});
+$(".panel.ebiz-header.BTLV16.ebiz-product-type-H > a").click(function(e) {
+    e.preventDefault();
+});
+</script>
+
+                </footer>
+            </div>
+    </form>
+
+    <script src="//a248.e.akamai.net/images.talentarena.co.uk/Global/Lib/foundation-5.3.0/js/foundation.min.js"></script>
+    <script>
+        $(document).foundation();
+    </script>
+    
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-4154760-46', 'talent-sport.co.uk');
+  ga('send', 'pageview');
+
+</script>
+<!-- Adform Tracking Code BEGIN -->
+<script type="text/javascript">
+    var _adftrack = {
+        pm: 275105        
+    };
+    (function () { var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'https://track.adform.net/serving/scripts/trackpoint/async/'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x); })();
+
+</script>
+<noscript>
+    <p style="margin:0;padding:0;border:0;">
+        <img src="https://track.adform.net/Serving/TrackPoint/?pm=275105" width="1" height="1" alt="" />
+    </p>
+</noscript>
+<!-- Adform Tracking Code END -->
+
+<script type="text/javascript">!function(){var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="//config1.veinteractive.com/tags/810a4c50/5298/496f/a500/bb6cdcf16eb0/tag.js";var b=document.getElementsByTagName("head")[0];if(b)b.appendChild(a,b);else{var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)}}();</script>
+</body>
+</html>
