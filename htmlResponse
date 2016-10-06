@@ -58,7 +58,7 @@
     
     <div class="ebiz-body-overlay"></div>
     <form method="post" action="productHome.aspx" id="form1" class="form-producthome">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="H+adx7pPVUUm2cyEI7Lir2GEOVluVi02kGs263/Xa/s5fMewHLCnOQvs4tNUZ4ot5dtVPZ3iO8fmuR9cAjHLWxQddPes3rPwd2EAHoaPdRcgwwBDM6R0ttIM785U7URWwdl1tgaJ3u1sZQw/wljFVsfKC08YDuzIOilGksGzKLmCA2BdNYVQDD9pYampHFj7eb/clMZn2oNaCcmSf3TPv3BY/wWw/yo9iVESBENzm3gQm52QQkT+mXfCbnor3YXf9HBQgPhvSAhs4tH5YrqmAkO64yTzpYdpPaUFdC5/IiFFwt0BwmhKTzjbnB/CWxxKj759ihhYdJHUNoNIVP64UUsqV0LrTXX3C8neVPkotyuzEes/kC/vbX4ySH1IbIpmG53W3O/tRGMmJKpj71zytxNseuzQd6xqu4BN4wOPkq4Rdhb0OAqTMzaGm7oJbNT6qI6jvhXX+xHIuzP6WKgHfQ9rBy/mdUOW3OBOQ20LNc/COc7bCdVlxuTr4xhxCYBb8cnUTSvO54TiPmhtJiQnxIdxt1jWUbzNPoxhwFGF1NNe+KA+EDE8ZVi5aEKwlcjqG+FtGXblqLJv18EBduL8e2nhMrqfkP+RqB3YXxeYF2OV0+8nFBihqkcjywrgFlmQ9bqDhLtlhufwT7PBDr8wGnSj4GmyqHzzBtzJyH4nJJiaNFsO4cNCf1+sABNrdAEE2lydaZFrJl2242dcCLKBYLohUWX/lLdaq5Jb3R2XRsRc61jlzfuX9PBeRXVNVa2W5qQACELHWWxaPvAIgh2d4+KSO9E=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="DHNZF82DqXtOyuZ/ScRZChu+KsWCL8d7xGPTQrHwZPdPhv7mvQpRLMp+6HR0u2MmEAdU3LY+Pvi58ZbwgpxvDt2xbM3xQTptsc+SrXW8BbU/cVrp0v6VKQZ91i6oFZ7IENJL7QaEwNepl++H3NiZuzkgSJrlWOHMl/U0rfGwTzmqUIwH19rd6PzbEelVpzg8Qajnymb2PvG6pQpkgWIi/lDaKjBRt/yV4nqHaC18iXNVgxkq+cUHwr4XxZWyN8hnVzIJ614s6g6EoxOS54vdujranLBRrquxc3qrH+Kka0ftL9YSFenGb0gxIQlWi9Y21lxuY8x7XkeCvDPape9F+vLahKuYYbNOGKOiUqbDOqRhM7Omx4eyIN90q/bh9xIHz5choUya9/uX4U1CxxTKdrj4/D6lvJc9japVJh34bMaD5Y5REyJGIaNwoIZugOArmqfh3kGEBR3HVI2h7ZTjEBiVe0yrxRS0k3m43r5e5evKlkoDjpNRly+l2mfSuZ6alGBW11f8BtKi1AEUUyuuyZFHHgg1z74HshsIa36lpRChUC7/jG27Uxkj/AhVY1qVD6p+os/VmgOcCrAn/Alk99+2kuWyliYF+steMYi0sbpHEcQRfsDt/Kylpo/CpH7425+mfGp5KXPa1USWWD4EamHVt+tlyE+crmL3py3K1dR7qI41ArbQ3cHJlZh2rdCy4ZYe6Gi/gxt+VRfTEX+vxEV69yIAKZpvEtoEaHjJgfydwukiz5/CHupIKR4+jmctdMFqsabCq7Ztpdk/ZpO1WrjGLQc=" />
 
 
 <script src="/ScriptResource.axd?d=D1YpYmhnPwYRBghP7SCWoWdTC7NMExYUttXymXYNcm7IXJh3hDLTbNgVPaXBCNPYFzadRVXVc2qNv_0jutnn7a4ITz04naXZhXpBZe486xy-rEdWUk0vo0XCOzp-K4NYgzds_0UVZuBdmFSiv0Jbg-CmDik1&amp;t=ca758f3" type="text/javascript"></script>
@@ -227,7 +227,7 @@
         	</small>
     	</h2>
         <p>
-        	<span id="SiteMasterBody_uscSessionStatus_statusContent">Your session will only last a maximum of 30 minutes and will be timed out after 5 minutes of inactivity.<b>You currently have 25 minutes remaining</b>.</span>
+        	<span id="SiteMasterBody_uscSessionStatus_statusContent">Your session will only last a maximum of 30 minutes and will be timed out after 5 minutes of inactivity.<b>You currently have 28 minutes remaining</b>.</span>
     	</p>
     </div>
 
