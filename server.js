@@ -1,7 +1,5 @@
-var express = require('express');
 var fs = require('fs');
 var request = require('request');
-var app = express();
 var spawn = require('child_process').spawn;
 
 var urlString = 'https://tickets.brentfordfc.co.uk/PagesPublic/ProductBrowse/productHome.aspx';
