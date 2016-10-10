@@ -2,9 +2,13 @@ var fs = require('fs');
 var request = require('request');
 var spawn = require('child_process').spawn;
 
-var urlString = 'https://tickets.brentfordfc.co.uk/PagesPublic/ProductBrowse/productHome.aspx';
-var keyword = 'Newcastle';
-var cookieValue = '.ASPXANONYMOUS=6Ey_DpZV0gEkAAAAYzM4NzMxMDktMWY3ZS00MzU0LTkyNzYtY2FkYTA1ZDc4MjQ4pwgvMd0yVM5lqrpuZqpuvnQofOg1; ASP.NET_SessionId=zehciq3kekud3wubuao5ft1s';
+var contents = fs.readFileSync("config.json");
+var config = JSON.parse(contents);
+
+var urlString = config.urlString;
+var keyword = config.keyword;
+var cookieValue = config.cookieValue;
+var shellPath = config.shellPath
 
 // Makes a request to orders page and calls the callback with html body to be processed
 function makeRequest() {
@@ -32,11 +36,11 @@ function makeRequest() {
 					fs.writeFile('htmlResponse', body, function(err) {});
 					if (body.includes(keyword)) {
 						console.log(keyword + " tickets are up!")
-						// set this to the full path of your email script if you want to run this on a cron
-						spawn('sh', ['/Users/d.quaid/work/brentford-ticket-tracker/emailNotifier.sh']);
+							// set this to the full path of your email script if you want to run this on a cron
+						spawn('sh', [shellPath]);
 						console.log('email sent!')
 					} else {
-						console.log("No tickets yet!")
+						console.log("No " + keyword + " tickets yet!")
 					}
 				} else {
 					console.log('An error has occured');
