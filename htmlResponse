@@ -58,7 +58,7 @@
     
     <div class="ebiz-body-overlay"></div>
     <form method="post" action="productHome.aspx" id="form1" class="form-producthome">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="Yu1vg5ruvUTX6U/N9grW83CeEyx2sgWMXiuI1r87IP2r88bBqPyQvJniTDz538fgGqGP7qaxVJw7juqCjYEeuWuHRW64byRIxHF3dsxdp5uhss6iQ3cucAP3EdZ/hNl9fMVR+UD4JKtM0wwuGmQW7L2d78FiVxrL6aCyj1yAY7uEWcIlBsIuYHlCvoG2dSF2U0nYUhfSrRcGuJ1Csc8umomFYuj+6eSWnRZiJ1f3TtgyJes2BlHFSkY9EZMhq8/K1fD+BEyvXcJr9dMdtag1pkSmQYVo2RA3dvVu/19Eqep13gcGWYKsc1JFsi8X6vMLNeS5RjkmP/WvK1EuVzW+m0vHiV0Trgf7H+OsmwKSPsdgYgwvvG9zSy02vo2rLqMXDeL3w703krtAtlm2PX9mZQm4o72eHdSY4UCoTTs1SKnp0n7TRXuXWrnSas3ZkjBzlHgd50WN9FoDjnfPq4feQAVLk058Awj3yQNOUNiR6INm20G2LihOv2gTXj1nZzbPNDfsj2lCVG7yjTJYyBLMpvRtl431ArNXEF2a3RwesyCe+3HEzzh3GjHgH/zURgJ98Lv+89VlgyMPtGRhGWpA8XHTliifc6isZa3mPhdNrLbcf0b9rKW3aQImjTmlRMFPjQURY+I3VfPH0xB5R2av4N5+df7i+vLGgnoDv/01mc3oaFS34uTndA6OUdRzJO4NdG8DjqGE1t/fMZxExSuKjdZ1KWFrg9/aAhEQLs4CePdjBKliT5JiRSRA+NKf8CK4c0ytqkAmYLnECE+KfIeolIguaQw=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="Cx1YGSlU5wQgb63x32zKXHVX4kjQbbt2pxrCtonF9auvnfwxComoRPiI72zGm18dSYIsYjQImFOZvgkujZNKYDTK43+Z16x6JU3Ki1M6VkI65ihDL8IwPFkYrMiZ2aRRGdGRcvVgGZxzPc41fN7vJlQki4Cv6l7Mi8gKPWpoSkgCAxO9uP/vSkriv/QANj8h2QBEh/hGf46dD6qIeFuLNgQviOz/7BGHGWPx4vu4nf/uaRNjpXfYoAjO3h/vhkaoLFDVY6i8vGRR4yPkBiUa2oq2u8qxWz7IVS29gS9UiR27q3B646pu4rqPmNRtOzyqL6XwmD8PEe21fZAV+LMzars1vWVPsRgE+CpPTAjV1CKKuYJsRa6ZVUOPcnfBP8ABorbp6/m+W+FwuBxMBcVub7AtY0ZS2c/Nz6wuGX88nBf9oN+NS5n1qfnqndDreo6qvx0fr5Saksb0wqLsQF6VoL2lN53egibYHXxaCEuw+5Ck9TIr1GO9nOUqO3qyCC4yan/cbfyYwRy0lTLtryeTAEGH5mQkzC0O+5KFVdu/oZC877KJK93v/Gxw+lVbtib1Flbt6kllNtlGEdcthNLNGpGvs8ny+qLBjNMGp19pBWxboCaLt2H+yuKsZrTD9iAIjGWpssG4CSDWLuz3xcNtQUyJaCTZUTVLbp62cReVEXEFOxat3Tq+Sy38NRKHeW18c3FymG0aLvFUlw0IIMbuq9jPu3hjk4V0EAJmk5Nj7ohM27lGj9PcHF+gn838DVCheYi9mbd7zLmGbqvzfdD2x2WGWHo=" />
 
 
 <script src="/ScriptResource.axd?d=t64cnRZImNGjQUyXuTONrv7gehbRKodTs5w0L5ZHPnpBZNwtG72CmWm1azieLT5iYOhd0AU4qaFo3irMKVJtGmDbxalx4xXxEFpxFaa8PTT7UfNwpPAMRrtIFtpe1INpwZUmKiiS8chQWpOPGuYteC0pEL41&amp;t=ca758f3" type="text/javascript"></script>
@@ -227,7 +227,7 @@
         	</small>
     	</h2>
         <p>
-        	<span id="SiteMasterBody_uscSessionStatus_statusContent">Your session will only last a maximum of 30 minutes and will be timed out after 5 minutes of inactivity.<b>You currently have 30 minutes remaining</b>.</span>
+        	<span id="SiteMasterBody_uscSessionStatus_statusContent">Your session will only last a maximum of 30 minutes and will be timed out after 5 minutes of inactivity.<b>You currently have 26 minutes remaining</b>.</span>
     	</p>
     </div>
 
@@ -581,31 +581,35 @@
 
   <hr style="border-style: dotted;border-color: #7f7f7f;max-width:982px">
 
-  <div class="ebiz-desktop-footer-sponsors">
+  <div class="ebiz-desktop-footer-sponsors show-for-large-up">
     <div class="row">
-      <div class="medium-4 large-2 columns ebiz-desktop-footer-sponsors-img-1">
+      <div class="columns ebiz-desktop-footer-sponsors-img-1" style="width:14.28571428571429%;">
           <a target="_blank" href="https://www.888sport.com/"><img src="/assets/websales/html/assets/footersponsors/888sport.png" alt="footer sponsor"></a>
           <span>Official Club Partner</span>
         </div>
-        <div class="medium-4 large-2 columns ebiz-desktop-footer-sponsors-img-2">
+        <div class="columns ebiz-desktop-footer-sponsors-img-2" style="width:14.28571428571429%;">
           <a target="_blank" href="http://www.adidas.co.uk/"><img src="/assets/websales/html/assets/footersponsors/adidas.png" alt="footer sponsor"></a>
           <span>Official Kit Supplier</span>
         </div>
-        <div class="medium-4 large-2 columns ebiz-desktop-footer-sponsors-img-3">
+        <div class="columns ebiz-desktop-footer-sponsors-img-3" style="width:14.28571428571429%;">
           <a target="_blank" href="http://www.uwl.ac.uk/"><img src="/assets/websales/html/assets/footersponsors/uwl.png" alt="footer sponsor"></a>
           <span>Official Club Partner</span>
         </div>
-        <div class="medium-4 large-2 columns ebiz-desktop-footer-sponsors-img-4">
+        <div class="columns ebiz-desktop-footer-sponsors-img-4" style="width:14.28571428571429%;">
           <a target="_blank" href="http://www.regallitho.co.uk/regal-sports-press/"><img src="/assets/websales/html/assets/footersponsors/regalsportspress.png" alt="footer sponsor"></a>
           <span>Official Club Partner</span>
         </div>
-        <div class="medium-4 large-2 columns ebiz-desktop-footer-sponsors-img-5">
+        <div class="columns ebiz-desktop-footer-sponsors-img-5" style="width:14.28571428571429%;">
           <a target= "_blank" href="http://www.carlsberg.co.uk/"><img src="/assets/websales/html/assets/footersponsors/carlsberg.jpg" alt="footer sponsor"></a>
           <span>Official Club Partner</span>
         </div>
-        <div class="medium-4 large-2 columns ebiz-desktop-footer-sponsors-img-6">
-          <!--<img src="http://placehold.it/140x70" alt="footer sponsor">
-          <span>Official Club Partner</span>-->
+        <div class="columns ebiz-desktop-footer-sponsors-img-6" style="width:14.28571428571429%;">
+          <a target="_blank" href="http://utilita.co.uk/"><img src="/assets/websales/html/assets/footersponsors/Utilita.png" alt="Utilita Energy"></a>
+          <span>Official Club Partner</span>
+        </div>
+        <div class="columns ebiz-desktop-footer-sponsors-img-7" style="width:14.28571428571429%;">
+           <a target="_blank" href="http://web.clickprintltd.co.uk/about-2/click-holdings/"><img src="/assets/websales/html/assets/footersponsors/ClickHolding.png" alt="Click Holdings"></a>
+          <span>Official Club Partner</span>
         </div>
     </div>
   </div>
